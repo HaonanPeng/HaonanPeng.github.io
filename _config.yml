@@ -55,6 +55,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Assets
+sass:
+  style: compressed
+assets:
+  stylesheets:
+    - "/assets/css/custom.css"
+
 author:
   name   : "Haonan Peng"
   avatar : "/assets/images/photo_Haonan.png"
