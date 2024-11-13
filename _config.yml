@@ -63,6 +63,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://haonanpeng.github.io/"
+    - label: "Curriculum Vitae (Updated Nov.13 2024)"
+      icon: "fas fa-file-pdf"  # PDF icon from Font Awesome
+      url: "/assets/Curriculum Vitae - Haonan Peng (UW).pdf"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=K-Vjs90AAAAJ"
