@@ -55,7 +55,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Assets
+# Assets, this is to adjust the text wrap width
 sass:
   style: compressed
 assets:
@@ -65,7 +65,7 @@ assets:
 author:
   name   : "Haonan Peng"
   avatar : "/assets/images/photo_Haonan.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Surgical Robotics, Medical Devices, Machine Learning"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
