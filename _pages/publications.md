@@ -47,3 +47,16 @@ A Wearable Device For Postoperative Breast Cancer Rehabilitation With Machine Le
 Detection and Low-Latency Notification of Improper Backpack Posture using Deep Learning  
   -- Hung, H. Y., Millaway, G., Mustafa, S., **Peng, H.**, Geiger, A., & Raiti, J.  
   -- IEEE Global Humanitarian Technology Conference (GHTC) (pp. 433-436), 2022 [Link]  
+
+## Patents
+
+Cable-Driven Force Actuation System 
+-- Peng, H., Chiang, D., Hendricks, J., Shing, J., Feng, H., Lewis, A., Su, Y. H., Hannaford, B.
+-- US provisional patent application (2024), MBHB Ref. 24-1522-US-PRO
+Prediction of Hemodynamic Parameters from Sensor Data Using Machine Learning
+-- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.
+-- US provisional patent application (2024), UW Ref. 49629
+Preprocessing of Sensor Data for Input to Machine Learning Model
+-- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.
+-- US provisional patent application (2024), UW Ref. 50155
+
