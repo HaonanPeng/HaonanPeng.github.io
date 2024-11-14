@@ -6,9 +6,9 @@ classes: wide
 
 ## Journals
 
-Reducing annotating load: Active learning with synthetic images in surgical instrument segmentation  
+[Reducing annotating load: Active learning with synthetic images in surgical instrument segmentation](https://doi.org/10.1016/j.media.2024.103246)  
   -- **Peng, H.**, Lin, S., King, D., Su, Y. H., Abuzeid, W. M., Bly, R. A., ... & Hannaford, B.   
-  -- Medical Image Analysis, 97, 103246. [Link]  
+  -- Medical Image Analysis, 97, 103246. 
 
 Efficient Data-driven Joint-level Calibration of Cable-driven Surgical Robots  
   -- **Peng, H.**, Lewis, A., Su, Y. H., Lin, S., Chiang, D., … & Hannaford, B. (2024).   
