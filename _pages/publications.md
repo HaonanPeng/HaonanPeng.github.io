@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Journals
+## Journals
 
 Reducing annotating load: Active learning with synthetic images in surgical instrument segmentation  
   --**Peng, H.**, Lin, S., King, D., Su, Y. H., Abuzeid, W. M., Bly, R. A., ... & Hannaford, B.   
@@ -30,7 +30,7 @@ J6. Local Style Preservation in Improved GAN-Driven Synthetic Image Generation f
   --Su, Y. H., Jiang, W., Chitrakar, D., Huang, K., **Peng, H.**, & Hannaford, B.   
   --Sensors, 21(15), 5163. 2021, [Link]  
 
-# Conferences
+## Conferences
 
 Real-time Data Driven Precision Estimator for RAVEN-II Surgical Robot End Effector Position  
   --**Peng, H.**, Yang, X., Su, Y., & Hannaford, B.   

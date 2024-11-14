@@ -1,10 +1,10 @@
 .page__inner-wrap {
-    max-width: 1200px; /* Increase this value to make the content area wider */
+    max-width: 1200px !important; /* Adjust as needed */
     margin: 0 auto;
 }
 
 @media screen and (min-width: 1200px) {
     .page__inner-wrap {
-        max-width: 1000px; /* Adjust for larger screens */
+        max-width: 1000px !important; /* Adjust for larger screens */
     }
 }
