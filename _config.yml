@@ -115,9 +115,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-header_pages:
-  - _pages/about.md
-  - _pages/research.md
-  - _pages/publications.md
-  - _pages/teaching.md

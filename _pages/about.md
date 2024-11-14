@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Ph.D. candidate in Electrical Engineering at the University of Washington, advised by <a href="https://people.ece.uw.edu/hannaford/" target="_blank">Blake Hannaford</a>. Before that, I earned my M.S. in Mechanical Engineering at the University of Washington, advised by Blake Hannaford. I am also working with <a href="https://www.me.washington.edu/facultyfinder/per-reinhall" target="_blank">Per Reinhall</a> and <a href="https://www.uwmedicine.org/bios/ryan-jense" target="_blank">Ryan Jense</a> as cofunder of a start-up initiative.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+My research interest are in surgical robotics, medical devices, and machine learning, with the overarching goal of intelligent healthcare, better closed-loop teleoperation and autonomous surgery. My work covers robotic control, manipulation, calibration, perception, motion planning, as well as AI-enhanced medical devices.
+
+<h1>Education</h1>
+<ul>
+    <li>Ph.D. Electrical Engineering, University of Washington, USA, expected 2025</li>
+    <li>M.S. Mechanical Engineering, University of Washington, USA, 2017-2019</li>
+    <li>B.S. Mechanical Engineering, Central South University, China, 2012-2016</li>
+</ul>
