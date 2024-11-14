@@ -4,19 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+
+  <!-- Link to Custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-  {{ site.head }} <!-- Include theme-specific head elements -->
-  {{ site.custom_css }} <!-- This includes the inline CSS -->
+
+  <!-- Theme-specific head elements, if needed -->
+  {{ site.head }}
 </head>
 <body>
   <header>
-    {{ site.header }} <!-- Theme's header content -->
+    {{ site.header }}
   </header>
   <main>
     {{ content }}
   </main>
   <footer>
-    {{ site.footer }} <!-- Theme's footer content -->
+    {{ site.footer }}
   </footer>
 </body>
 </html>
