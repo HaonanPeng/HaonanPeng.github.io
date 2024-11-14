@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+classes: wide
 ---
 
 ## Instructor

@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 I am a Ph.D. candidate in Electrical Engineering at the University of Washington, advised by <a href="https://people.ece.uw.edu/hannaford/" target="_blank">Blake Hannaford</a>. Before that, I earned my M.S. in Mechanical Engineering at the University of Washington, advised by Blake Hannaford. I am also working with <a href="https://www.me.washington.edu/facultyfinder/per-reinhall" target="_blank">Per Reinhall</a> and <a href="https://www.uwmedicine.org/bios/ryan-jense" target="_blank">Ryan Jense</a> as cofunder of a start-up initiative.
