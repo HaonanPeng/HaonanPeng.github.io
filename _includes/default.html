@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  {{ site.head }} <!-- Include theme-specific head elements -->
+  {{ site.custom_css }} <!-- This includes the inline CSS -->
+</head>
+<body>
+  <header>
+    {{ site.header }} <!-- Theme's header content -->
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    {{ site.footer }} <!-- Theme's footer content -->
+  </footer>
+</body>
+</html>
