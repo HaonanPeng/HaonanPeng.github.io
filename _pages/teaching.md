@@ -28,17 +28,36 @@ This is the associated project for Robot Manipulation. In this project, students
 
 ## Course Developer and Teaching Assistant
 
-### Techin 512 - Introduction To Sensors And Circuits, University of Washington, 2020-2024                     
+### Techin 512 - Introduction To Sensors And Circuits, University of Washington, 2020-2024      
+
+[GitHub](https://github.com/GIXLabs/SAndC)  
+
+Students will gain the background and techniques needed to connect digital systems to the physical world by learning the fundamentals of integrating sensors and microcontrollers. Students will also gain experience in the general process of sensor selection and designing hardware systems.  
+
+![PPG_lab](/assets/images/512_PPG_lab.png)   
+*Fig.3. PPG Sensor Lab*
 
 ### Techin 517 – Robotics Lab 2 2023-2024
 
+[GitHub](https://github.com/GIXLabs/TECHIN517/wiki/TECHIN-517%3A-Robotics-Lab-II%2C-Spring-2024)  
+
+Applied work with robot arms and graspers, often in combination with sensors such as cameras, to perform manipulation and grasping tasks. Laboratory consists of advanced robot manipulators, configured for a series of tasks of increasing difficulty. A matching simulation environment allows student-written software to be initially partially debugged before engaging the actual robots.
+
 ### Techin 514 – Hardware/Software Lab 1, Winter 2022
+
+Students given a real-world experience in developing hardware/software systems to gather an understanding of the entire lifecycle of building such a system from concept through requirements and through implementation, and finally testing.
 
 ### Techin 515 – Hardware/Software Lab 2, University of Washington, Spring 2024
 
+Builds on the foundation of TECHIN 514 and incorporates physical fabrication into course objectives. Students continue prototyping hardware/software systems, with the added complexity of signal processing, networking, cloud interfaces, and web-based user interfaces.
+
 ### EE 241 - Programming For Signal And Information Processing Applications, University of Washington, Winter 2024
 
-### EE 441 - Control System Analysis I, University of Washington, 2020-2021
+Introduction to programming for signal and information processing. Basic syntax and data types. Packages for data manipulation and visualization. Handling a variety of data formats.
+
+### EE 447 - Control System Analysis I, University of Washington, 2020-2021
+
+Linear Servomechanism theory and design principles. Pole-zero analysis, stability of feedback systems by root locus and real-frequency response methods. Design methods of Bode and Nichols. Introduction to advanced topics in automatic control theory, state variable methods.
 
 
 
