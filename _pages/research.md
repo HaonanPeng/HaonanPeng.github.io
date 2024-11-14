@@ -37,8 +37,17 @@ Although AI calibrations can significantly improve the control accuracy of the s
 
 Supervised deep learning usually requires a large amount of labeled data to achieve accurate prediction, which poses a significant human workload, especially for medical images. To alleviate this workload, we developed an active learning framework to generate synthetic images for efficient neural network training. In each active learning iteration, a small number of informative unlabeled images are first queried by active learning and manually labeled. Next, synthetic images are generated based on these selected images to make the best use of them. This method leverages the advantage of both active learning and synthetic images. The effectiveness of the method is validated on two sinus surgery datasets and one intraabdominal surgery dataset. The results indicate a considerable performance improvement, especially when the size of the annotated dataset is small.
 
-![calibration_workflow](/assets/images/fig2_workflow_n5.jpg)   
+![active syn workflow](/assets/images/fig2_workflow_n5.jpg)   
 *Fig.5. Generation workflow of synthetic endoscopic images*
 
-![calibration_workflow](/assets/images/fig5_example_syn.png)   
+![active syn example](/assets/images/fig5_example_syn.png)   
 *Fig.6. Examples of generated images*
+
+## Low-cost Visual Tracking for Surgical Robots
+
+Commercialize accurate visual tracking systems are usually costly. To facilitate data-driven approches in surgical robotics, I developed a low-cost visual tracking system for surgical robots with sub-mm accuracy while only requiring 4 webcams and 3D printing parts. 
+
+![visual traking](/assets/images/visual_tracking.png)   
+*Fig.7. Visual tracking workflow*
+
+<iframe src="https://www.youtube.com/watch?v=JGQ3E70Jdmo" width="640" height="480" allow="autoplay" allowfullscreen></iframe>  
