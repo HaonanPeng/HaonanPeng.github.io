@@ -50,13 +50,14 @@ Detection and Low-Latency Notification of Improper Backpack Posture using Deep L
 
 ## Patents
 
-Cable-Driven Force Actuation System 
--- Peng, H., Chiang, D., Hendricks, J., Shing, J., Feng, H., Lewis, A., Su, Y. H., Hannaford, B.
--- US provisional patent application (2024), MBHB Ref. 24-1522-US-PRO
-Prediction of Hemodynamic Parameters from Sensor Data Using Machine Learning
--- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.
--- US provisional patent application (2024), UW Ref. 49629
-Preprocessing of Sensor Data for Input to Machine Learning Model
--- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.
--- US provisional patent application (2024), UW Ref. 50155
+Cable-Driven Force Actuation System   
+-- Peng, H., Chiang, D., Hendricks, J., Shing, J., Feng, H., Lewis, A., Su, Y. H., Hannaford, B.  
+-- US provisional patent application (2024), MBHB Ref. 24-1522-US-PRO  
 
+Prediction of Hemodynamic Parameters from Sensor Data Using Machine Learning  
+-- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.  
+-- US provisional patent application (2024), UW Ref. 49629  
+
+Preprocessing of Sensor Data for Input to Machine Learning Model  
+-- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.  
+-- US provisional patent application (2024), UW Ref. 50155  
