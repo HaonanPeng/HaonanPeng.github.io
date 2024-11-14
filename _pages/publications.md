@@ -1,5 +1,4 @@
 ---
-layout: defult
 title: "Publications"
 permalink: /publications/
 ---
