@@ -22,11 +22,11 @@ Automatic summarization of endoscopic skull base surgical videos through object 
   -- King, D., Adidharma, L., **Peng, H.**, Moe, K., Li, Y., Yang, Z., ... & Bly, R. A. (2023).   
   -- Computerized Medical Imaging and Graphics, 2023 [Link]  
 
-J5. Multi-Frame Feature Aggregation for Real-Time Instrument Segmentation in Endoscopic Video  
+Multi-Frame Feature Aggregation for Real-Time Instrument Segmentation in Endoscopic Video  
   -- Lin, S., Qin, F., **Peng, H.**, Bly, R. A., Moe, K. S., & Hannaford, B.   
   -- IEEE Robotics and Automation Letters, 6(4), 6773-6780, 2021, [Link]  
 
-J6. Local Style Preservation in Improved GAN-Driven Synthetic Image Generation for Endoscopic Tool Segmentation  
+Local Style Preservation in Improved GAN-Driven Synthetic Image Generation for Endoscopic Tool Segmentation  
   -- Su, Y. H., Jiang, W., Chitrakar, D., Huang, K., **Peng, H.**, & Hannaford, B.   
   -- Sensors, 21(15), 5163. 2021, [Link]  
 
@@ -51,13 +51,13 @@ Detection and Low-Latency Notification of Improper Backpack Posture using Deep L
 ## Patents
 
 Cable-Driven Force Actuation System   
--- Peng, H., Chiang, D., Hendricks, J., Shing, J., Feng, H., Lewis, A., Su, Y. H., Hannaford, B.  
--- US provisional patent application (2024), MBHB Ref. 24-1522-US-PRO  
+  -- Peng, H., Chiang, D., Hendricks, J., Shing, J., Feng, H., Lewis, A., Su, Y. H., Hannaford, B.  
+  -- US provisional patent application (2024), MBHB Ref. 24-1522-US-PRO  
 
 Prediction of Hemodynamic Parameters from Sensor Data Using Machine Learning  
--- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.  
--- US provisional patent application (2024), UW Ref. 49629  
+  -- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.  
+  -- US provisional patent application (2024), UW Ref. 49629  
 
 Preprocessing of Sensor Data for Input to Machine Learning Model  
--- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.  
--- US provisional patent application (2024), UW Ref. 50155  
+  -- Hou, Y., Peng, H., Jense, R., Reinhall, P., Johnson, M.  
+  -- US provisional patent application (2024), UW Ref. 50155  
