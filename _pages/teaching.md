@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: defult
 title: "Teaching"
 permalink: /teaching/
 ---
