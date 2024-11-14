@@ -60,7 +60,7 @@ sass:
   style: compressed
 assets:
   stylesheets:
-    - "/assets/css/custom.css"
+    - "/assets/CSS/custom.css"
 
 author:
   name   : "Haonan Peng"
