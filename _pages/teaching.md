@@ -12,5 +12,17 @@ EE 543 focuses on the analytical and computational methods of robot arm manipula
 
 Open-sourced materials: [slides (copyright: Haonan Peng)](https://drive.google.com/drive/folders/1vBz60bQGFCacKejZdK-5bcZXsE-53xWz?usp=sharing), [textbook (copyright: Prof. Blake Hannaford)](https://github.com/blake5634/Models_of_Robot_Manipulation/blob/main/Models_of_Robot_Manipulation.pdf)
 
-[EE543 slides example](/assets/images/EE543_slides_1.png)
+![EE543 slides example](/assets/images/EE543_slides_1.png)
 *Fig.1. Example slides*
+
+### Project Manual Robot Manipulation
+This is the associated project for Robot Manipulation. In this project, students will be guided to build a robot arm with 3-4 joints from scratch. Based on EE 543 course materials, students can learn and implement:  
+* Design and assemble robot arm from provided servo motors, arm links, power supply, and so on  
+* Assign frames for each joint and derive proximal DH parameters  
+* Apply forward kinematics and analyze the workspace of the robot  
+* Solve inverse kinematics and achieve intuitive end-effector position control in Cartesian space  
+* Derive the Jacobian matrix and achieve end-effector velocity control, and analyze the singularity (optional).  
+
+![EE543 project example](/assets/images/EE543_project_rob_arm.png)
+*Fig.2. Example robot arm of the Robot Manipulation project*
+
