@@ -55,13 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Assets, this is to adjust the text wrap width
-sass:
-  style: compressed
-assets:
-  stylesheets:
-    - "/assets/CSS/custom.css"
-
 author:
   name   : "Haonan Peng"
   avatar : "/assets/images/photo_Haonan.png"
@@ -115,3 +108,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Assets, this is to adjust the text wrap width
+sass:
+  style: compressed
+assets:
+  stylesheets:
+    - "/assets/CSS/custom.css"
