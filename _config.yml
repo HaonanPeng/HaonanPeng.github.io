@@ -114,4 +114,4 @@ sass:
   style: compressed
 assets:
   stylesheets:
-    - "/assets/CSS/custom.css"
+    - "/assets/css/custom.css"
