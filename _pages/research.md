@@ -51,3 +51,4 @@ Commercialize accurate visual tracking systems are usually costly. To facilitate
 *Fig.7. Visual tracking workflow*
 
 <iframe src="https://www.youtube.com/watch?v=JGQ3E70Jdmo" width="640" height="480" allow="autoplay" allowfullscreen></iframe>  
+
