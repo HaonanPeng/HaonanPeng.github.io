@@ -50,7 +50,8 @@ Commercialize accurate visual tracking systems are usually costly. To facilitate
 ![visual traking](/assets/images/visual_tracking.png)   
 *Fig.7. Visual tracking workflow*
 
-<iframe src="https://www.youtube.com/watch?v=JGQ3E70Jdmo" width="640" height="480" allow="autoplay" allowfullscreen></iframe>  
+<iframe width="640" height="480" src="https://www.youtube.com/embed/JGQ3E70Jdmo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Fig.7. Video of the System Overview*
 
 ## AI-based Non-invasive Continuous Blood Pressure Monitoring for Operating Rooms
 
