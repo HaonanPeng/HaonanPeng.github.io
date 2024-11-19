@@ -52,3 +52,8 @@ Commercialize accurate visual tracking systems are usually costly. To facilitate
 
 <iframe src="https://www.youtube.com/watch?v=JGQ3E70Jdmo" width="640" height="480" allow="autoplay" allowfullscreen></iframe>  
 
+## AI-based Non-invasive Continuous Blood Pressure Monitoring for Operating Rooms
+
+Current continuous blood pressure monitoring relies on invasive arterial lines, with a risk of complications. We are developing an AI-based blood pressure estimation based on vital waveforms such as ECG and Pleth, as well as information from demographics and medications. In collaboration with UW Medical Center, more than 1000 cases are recorded in operating rooms. This dataset is now partially shared with 2 other research groups at the University of Washington.
+
+![blood pressure workflow](/assets/images/blood_pressure_workflow.png)   
