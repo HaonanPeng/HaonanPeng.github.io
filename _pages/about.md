@@ -13,7 +13,7 @@ I received my Ph.D. in Electrical Engineering and my M.S. in Mechanical Engineer
 
 <h1>Education</h1>
 <ul>
-    <li>Ph.D. Electrical Engineering, University of Washington, USA, expected 2025</li>
+    <li>Ph.D. Electrical Engineering, University of Washington, USA, 2020-2026</li>
     <li>M.S. Mechanical Engineering, University of Washington, USA, 2017-2019</li>
     <li>B.S. Mechanical Engineering, Central South University, China, 2012-2016</li>
 </ul>
