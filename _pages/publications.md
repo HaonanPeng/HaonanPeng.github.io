@@ -12,11 +12,11 @@ classes: wide
 
 [Efficient Data-driven Joint-level Calibration of Cable-driven Surgical Robots](https://arxiv.org/abs/2408.01604){:target="_blank"}  
   -- **Peng, H.**, Lewis, A., Su, Y. H., Lin, S., Chiang, D., … & Hannaford, B. (2024).   
-  -- Nature - npj Robotics, 2024, Accepted, in production. 
+  -- Nature - npj Robotics, 2024. 
 
 [Ablation Study on Features in Learning-based Joints Calibration of Cable-driven Surgical Robots](https://arxiv.org/abs/2302.04999){:target="_blank"}  
   -- **Peng, H.**, Lewis, A., Su, Y. H., & Hannaford, B.   
-  -- IEEE Transactions on Automation Science and Engineering, 2024, In revision.  
+  -- IEEE Transactions on Automation Science and Engineering, 2025.  
 
 [Automatic summarization of endoscopic skull base surgical videos through object detection and hidden Markov modeling](https://doi.org/10.1016/j.compmedimag.2023.102248){:target="_blank"}  
   -- King, D., Adidharma, L., **Peng, H.**, Moe, K., Li, Y., Yang, Z., ... & Bly, R. A. (2023).   
