@@ -65,7 +65,7 @@ author:
       url: "https://haonanpeng.github.io/"
     - label: "Curriculum Vitae"
       icon: "fas fa-file-pdf"  # PDF icon from Font Awesome
-      url: "/assets/Curriculum Vitae - Haonan Peng (UW).pdf"
+      url: "/assets/Curriculum Vitae - Haonan Peng.pdf"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=K-Vjs90AAAAJ"
